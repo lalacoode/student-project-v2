@@ -1,0 +1,42 @@
+
+#mostrarPuertas div {
+    display: flex;
+    width: 50%;
+    height:auto;
+  }
+  
+#mostrarPuertas {
+    display: flex;
+    flex-direction: row;
+}
+
+#mostrarPuertas img{
+    width: 100%;
+    height:auto;
+}
+
+.tenor-gif-embed{
+    width: 100%;
+    display: none;
+}
+.audio{
+    width: 100%;;
+    display:none;
+}
+body{
+    background-color: black;
+}
+
+#cronometro{
+    text-align: center;
+}
+
+h1 p{
+    text-align: center;
+    color:white;
+}
+
+h2{
+    text-align: center;
+    color:white;
+}
